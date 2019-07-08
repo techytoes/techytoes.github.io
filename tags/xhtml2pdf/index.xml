@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xhtml2pdf on Rupesh Harode</title>
+    <link>/tags/xhtml2pdf/</link>
+    <description>Recent content in xhtml2pdf on Rupesh Harode</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2017 22:59:27 +0530</lastBuildDate>
+    
+	    <atom:link href="/tags/xhtml2pdf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Putext</title>
+      <link>/project/putext/</link>
+      <pubDate>Mon, 25 Sep 2017 22:59:27 +0530</pubDate>
+      
+      <guid>/project/putext/</guid>
+      <description>
+
+&lt;p&gt;This project involved the construction of a web application that converts all the text entered in the textbox to pdf. The tools utilized in this project include &lt;code&gt;Django&lt;/code&gt; - for the web application server, &lt;code&gt;Javascript&lt;/code&gt;, &lt;code&gt;HTML&lt;/code&gt;, &lt;code&gt;CSS&lt;/code&gt; - for the front side webpage, &lt;code&gt;xHTMLtopdf&lt;/code&gt; - a library used to generate pdf responses.&lt;/p&gt;
+
+&lt;h2 id=&#34;running-the-django-server&#34;&gt;Running the Django Server:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Install the required dependencies.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;pip install -r requirements
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After installing requirements run the server.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;python manage.py runserver
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

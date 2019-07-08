@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Rupesh Harode</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Rupesh Harode</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an Open Source Evangelist. I’m insanely passionate about computer programming, currently trying my hand in a number of fields, ranging from web development to competitive programming to Machine Learning.&lt;/p&gt;
+
+&lt;p&gt;I completed my Google Summer of Code project under organization Sofa-Framework in 2018. Some open source projects I&amp;rsquo;ve worked with include Sofa-Framework, Sympy, Rspamd and coala.&lt;/p&gt;
+
+&lt;p&gt;I like to adapt to the changes and follow the latest technology trends. I love to hack on Deep learning and Neural Networks, have built a few interesting projects at hackathons. I love attending hackathons, regionals as well as nationals.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

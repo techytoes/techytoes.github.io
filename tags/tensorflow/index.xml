@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensorflow on Rupesh Harode</title>
+    <link>/tags/tensorflow/</link>
+    <description>Recent content in Tensorflow on Rupesh Harode</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2017 22:57:11 +0530</lastBuildDate>
+    
+	    <atom:link href="/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sentiment Analyzer</title>
+      <link>/project/sentiment-analyzer/</link>
+      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
+      
+      <guid>/project/sentiment-analyzer/</guid>
+      <description>
+
+&lt;h3 id=&#34;your-positive-action-combined-with-positive-thinking-results-in-success&#34;&gt;&amp;rdquo; Your positive action combined with positive thinking results in success &amp;ldquo;&lt;/h3&gt;
+
+&lt;p&gt;A Simple Sentiment Analysis where model is trained using a long positive and negative text file and a lexicon is created.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Multi Level Perceptron is used for training the models with lexicon.&lt;/li&gt;
+&lt;li&gt;NLTK used to lemmatize and create lexicon.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;training-the-sentiment-analyzer&#34;&gt;Training the sentiment-analyzer&lt;/h2&gt;
+
+&lt;p&gt;&lt;code&gt;python sentiment_neural_network.py&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

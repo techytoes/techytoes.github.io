@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ChartJS on Rupesh Harode</title>
+    <link>/tags/chartjs/</link>
+    <description>Recent content in ChartJS on Rupesh Harode</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2018 22:53:11 +0530</lastBuildDate>
+    
+	    <atom:link href="/tags/chartjs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hackathon 3.0</title>
+      <link>/project/hackathon/</link>
+      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
+      
+      <guid>/project/hackathon/</guid>
+      <description>
+
+&lt;h2 id=&#34;installation-guide&#34;&gt;Installation Guide&lt;/h2&gt;
+
+&lt;h4 id=&#34;create-virtual-environment-and-activate-it-then-run-this-command-in-the-root-directory-of-the-project&#34;&gt;create virtual environment and activate it. Then run this command in the root directory of the project.&lt;/h4&gt;
+
+&lt;p&gt;&lt;code&gt;pip install -r requirements.txt&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tech-stack-used&#34;&gt;Tech Stack Used&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Django+Ajax+Jquery for Backend.&lt;/li&gt;
+&lt;li&gt;Bootstrap(HTML + CSS), ChartJS for illustrations for Frontend.&lt;/li&gt;
+&lt;li&gt;API used - GoogleMaps and Tastypie(Django.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
+
+&lt;h2 id=&#34;dashboard-admin-panel&#34;&gt;Dashboard - Admin Panel&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Includes recent reviews provided by the user.&lt;/li&gt;
+&lt;li&gt;Pie-Chart showing ratings of user.&lt;/li&gt;
+&lt;li&gt;Graph showing usage statistics.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

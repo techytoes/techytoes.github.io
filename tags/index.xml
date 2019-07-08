@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rupesh Harode</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Rupesh Harode</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2018 22:53:11 +0530</lastBuildDate>
+    
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>/tags/bootstrap/</link>
+      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
+      
+      <guid>/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>/tags/css/</link>
+      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
+      
+      <guid>/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ChartJS</title>
+      <link>/tags/chartjs/</link>
+      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
+      
+      <guid>/tags/chartjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>/tags/django/</link>
+      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
+      
+      <guid>/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoogleMaps API</title>
+      <link>/tags/googlemaps-api/</link>
+      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
+      
+      <guid>/tags/googlemaps-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>/tags/html/</link>
+      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
+      
+      <guid>/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
+      
+      <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLTK</title>
+      <link>/tags/nltk/</link>
+      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
+      
+      <guid>/tags/nltk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>/tags/tensorflow/</link>
+      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
+      
+      <guid>/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lexicon</title>
+      <link>/tags/lexicon/</link>
+      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
+      
+      <guid>/tags/lexicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>numpy</title>
+      <link>/tags/numpy/</link>
+      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
+      
+      <guid>/tags/numpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pickle</title>
+      <link>/tags/pickle/</link>
+      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
+      
+      <guid>/tags/pickle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xhtml2pdf</title>
+      <link>/tags/xhtml2pdf/</link>
+      <pubDate>Mon, 25 Sep 2017 22:59:27 +0530</pubDate>
+      
+      <guid>/tags/xhtml2pdf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

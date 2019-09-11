@@ -21,20 +21,20 @@
     </item>
     
     <item>
-      <title>CSS</title>
-      <link>/tags/css/</link>
-      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
-      
-      <guid>/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ChartJS</title>
       <link>/tags/chartjs/</link>
       <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
       
       <guid>/tags/chartjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>/tags/css/</link>
+      <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
+      
+      <guid>/tags/css/</guid>
       <description></description>
     </item>
     
@@ -84,29 +84,20 @@
     </item>
     
     <item>
-      <title>NLTK</title>
-      <link>/tags/nltk/</link>
-      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
-      
-      <guid>/tags/nltk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tensorflow</title>
-      <link>/tags/tensorflow/</link>
-      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
-      
-      <guid>/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>lexicon</title>
       <link>/tags/lexicon/</link>
       <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
       
       <guid>/tags/lexicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLTK</title>
+      <link>/tags/nltk/</link>
+      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
+      
+      <guid>/tags/nltk/</guid>
       <description></description>
     </item>
     
@@ -125,6 +116,15 @@
       <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
       
       <guid>/tags/pickle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>/tags/tensorflow/</link>
+      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
+      
+      <guid>/tags/tensorflow/</guid>
       <description></description>
     </item>
     

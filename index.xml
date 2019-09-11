@@ -12,149 +12,30 @@
     
     
     <item>
-      <title>The Perfect Terminal</title>
-      <link>/post/the-perfect-terminal/</link>
+      <title>Posts</title>
+      <link>/post/</link>
       <pubDate>Tue, 10 Apr 2018 22:50:32 +0530</pubDate>
       
-      <guid>/post/the-perfect-terminal/</guid>
-      <description>
-
-&lt;p&gt;Being a Mac User, We clearly understand how boring the default terminal shell looks. Today we will be configuring the terminal for mac systems which is both aesthetically pleasing and also extremely useful.&lt;/p&gt;
-
-&lt;h2 id=&#34;iterm-2&#34;&gt;iTerm 2&lt;/h2&gt;
-
-&lt;p&gt;Firstly, download and install iTerm2. It&amp;rsquo;s a free replacement for the default terminal that comes with your OS X installation. The installation is pretty straightforward.&lt;/p&gt;
-
-&lt;h2 id=&#34;zsh-z-shell&#34;&gt;ZSH ( Z Shell ):&lt;/h2&gt;
-
-&lt;p&gt;Zsh is a shell designed for interactive use though it&amp;rsquo;s also a powerful scripting language.
-To install Oh My Zsh ( Zsh Framework), just run below command in your iTerm2 terminal.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;sh -c &amp;quot;$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;solarized-color-scheme&#34;&gt;Solarized Color Scheme&lt;/h2&gt;
-
-&lt;p&gt;To get the color scheme just like the one used in this tutorial (Solarized), you can run following command :&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;curl -o ~/Desktop/solarized.itermcolors https://raw.githubusercontent.com/altercation/solarized/master/iterm2-colors-solarized/Solarized%20Dark.itermcolors
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This will download the latest Solarized Dark Colors scheme to your desktop. You can then open up the iTerm&amp;rsquo;s preferences pane, select Profiles, select the Colors tab and click load presets &amp;gt; import and choose the solarized.itermcolors file from your desktop.
-After successfully importing the scheme file, you can pick the theme from same dropdown.&lt;/p&gt;
-
-&lt;h2 id=&#34;meslo-font&#34;&gt;Meslo Font&lt;/h2&gt;
-
-&lt;p&gt;I&amp;rsquo;m using the Powerline Meslo Font, which is a really nice and comes with variety of symbols that are used in Zsh prompt. To install Powerline fonts, run the following command :&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/powerline/fonts.git &amp;amp;&amp;amp; cd fonts &amp;amp;&amp;amp; ./install.sh
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now From iTerm&amp;rsquo;s preferences pane, click profiles again, go into Text tab and change the font to Meslo LG L Regular For Powerline. You can also play around other Powerline fonts.&lt;/p&gt;
-
-&lt;h2 id=&#34;agnoster-oh-my-zsh-theme&#34;&gt;Agnoster Oh My Zsh Theme&lt;/h2&gt;
-
-&lt;p&gt;When you installed Zsh on your system, its &lt;code&gt;.zshrc&lt;/code&gt; file which is similar to .&lt;code&gt;profile&lt;/code&gt; of your bash shell in mac is created in your users directory. ( &lt;code&gt;~/.zshrc&lt;/code&gt; ). inside this file, change the &lt;code&gt;ZSH_THEME&lt;/code&gt; to agnoster. Now you should have a terminal looking similar to the screenshot in the beginning of this tutorial and you can start leveraging the powers of ZSH.
-To improve your productivity even more, you can have a look at this &lt;a href=&#34;https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet&#34; target=&#34;_blank&#34;&gt;cheatsheet&lt;/a&gt; which has some handy aliases for the Zsh, they&amp;rsquo;re really useful.
-Have fun with your new terminal&lt;/p&gt;
-</description>
+      <guid>/post/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>/post/hello-world/</link>
-      <pubDate>Sun, 18 Mar 2018 22:47:41 +0530</pubDate>
-      
-      <guid>/post/hello-world/</guid>
-      <description>&lt;p&gt;This is my first post on this blog. I think first post requires a introduction but I have already provided a lot of information about me in the About section.This post is just my basic introduction to blogging, So please don&amp;rsquo;t focus much on content. My later blogs will contain a lot of content.&lt;/p&gt;
-
-&lt;p&gt;So, jumping to the point why I am starting blogs because I think it is fruitful to read ones experiences. I mean, I have got so much help just by reading stuffs on the internet. So why not give back to the community.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I will try to write a blog post every sunday if the time allows.&lt;/em&gt; Next month is going to be super busy as exams are around the corner but I will still try my best to steal some time for this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hackathon 3.0</title>
-      <link>/project/hackathon/</link>
+      <title>Projects</title>
+      <link>/project/</link>
       <pubDate>Mon, 05 Feb 2018 22:53:11 +0530</pubDate>
       
-      <guid>/project/hackathon/</guid>
-      <description>
-
-&lt;h2 id=&#34;installation-guide&#34;&gt;Installation Guide&lt;/h2&gt;
-
-&lt;h4 id=&#34;create-virtual-environment-and-activate-it-then-run-this-command-in-the-root-directory-of-the-project&#34;&gt;create virtual environment and activate it. Then run this command in the root directory of the project.&lt;/h4&gt;
-
-&lt;p&gt;&lt;code&gt;pip install -r requirements.txt&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;tech-stack-used&#34;&gt;Tech Stack Used&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Django+Ajax+Jquery for Backend.&lt;/li&gt;
-&lt;li&gt;Bootstrap(HTML + CSS), ChartJS for illustrations for Frontend.&lt;/li&gt;
-&lt;li&gt;API used - GoogleMaps and Tastypie(Django.)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
-
-&lt;h2 id=&#34;dashboard-admin-panel&#34;&gt;Dashboard - Admin Panel&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Includes recent reviews provided by the user.&lt;/li&gt;
-&lt;li&gt;Pie-Chart showing ratings of user.&lt;/li&gt;
-&lt;li&gt;Graph showing usage statistics.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>/project/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Sentiment Analyzer</title>
-      <link>/project/sentiment-analyzer/</link>
-      <pubDate>Fri, 17 Nov 2017 22:57:11 +0530</pubDate>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/sentiment-analyzer/</guid>
-      <description>
-
-&lt;h3 id=&#34;your-positive-action-combined-with-positive-thinking-results-in-success&#34;&gt;&amp;rdquo; Your positive action combined with positive thinking results in success &amp;ldquo;&lt;/h3&gt;
-
-&lt;p&gt;A Simple Sentiment Analysis where model is trained using a long positive and negative text file and a lexicon is created.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Multi Level Perceptron is used for training the models with lexicon.&lt;/li&gt;
-&lt;li&gt;NLTK used to lemmatize and create lexicon.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;training-the-sentiment-analyzer&#34;&gt;Training the sentiment-analyzer&lt;/h2&gt;
-
-&lt;p&gt;&lt;code&gt;python sentiment_neural_network.py&lt;/code&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Putext</title>
-      <link>/project/putext/</link>
-      <pubDate>Mon, 25 Sep 2017 22:59:27 +0530</pubDate>
-      
-      <guid>/project/putext/</guid>
-      <description>
-
-&lt;p&gt;This project involved the construction of a web application that converts all the text entered in the textbox to pdf. The tools utilized in this project include &lt;code&gt;Django&lt;/code&gt; - for the web application server, &lt;code&gt;Javascript&lt;/code&gt;, &lt;code&gt;HTML&lt;/code&gt;, &lt;code&gt;CSS&lt;/code&gt; - for the front side webpage, &lt;code&gt;xHTMLtopdf&lt;/code&gt; - a library used to generate pdf responses.&lt;/p&gt;
-
-&lt;h2 id=&#34;running-the-django-server&#34;&gt;Running the Django Server:&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Install the required dependencies.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;pip install -r requirements
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;After installing requirements run the server.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;python manage.py runserver
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid></guid>
+      <description></description>
     </item>
     
   </channel>
